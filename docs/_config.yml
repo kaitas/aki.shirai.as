@@ -1,1 +1,31 @@
 theme: jekyll-theme-leap-day
+title: aki's right brain
+languages: "ja"
+google_analytics: UA-34399144-3
+# <!-- Global site tag (gtag.js) - Google Analytics -->
+# <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34399144-3"></script>
+#<script>
+#  window.dataLayer = window.dataLayer || [];
+#  function gtag(){dataLayer.push(arguments);}
+#  gtag('js', new Date());
+#  gtag('config', 'UA-34399144-3');
+#</script>
+source: .
+# layouts_dir: _layouts
+# data_dir: _data # なぜかこのディレクトリをいったん指定しないと _posts が動かなかった
+# includes_dir: _includes
+# http://jekyllrb-ja.github.io/docs/permalinks/
+# permalink: pretty #拡張子を外す
+# permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /:year/:month/:title
+show_excerpts: true # 投稿の中身を展開する
+paginate: 5
+paginate_path: "/blog/page:num/"
+# permalink: date # 不明
+# collections_dir: .
+collections:
+  posts: 
+    output: true
+plugins:
+  - jekyll-paginate
+
