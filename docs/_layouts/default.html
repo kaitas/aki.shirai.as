@@ -50,8 +50,9 @@
 <!-- banner-->
 <div id="banner">
   <span id="mylogo"></span>
-  <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+  {% include nav.html %}
   {% if site.show_downloads %}
+  <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
     <div class="downloads">
       <span>Downloads:</span>
       <ul>
