@@ -3,8 +3,9 @@ aki.shirai.as
 
 ## done
 - 9	179	0.11%	2846	0.11%	/2013/01/google-spreadsheet-linkto-excel/
-## not yet
 - 10	157	0.10%	4115	0.15%	/2017/02/google-translate-and-spreadsheet-for-international-submission/
+
+## not yet
 - 11	127	0.08%	1697	0.06%	/2015/10/letter-to-who-cannot-write-report/
 - 16	73	0.05%	2013	0.08%	/2018/12/work-for-life-20181225/
 - 17	60	0.04%	1225	0.05%	/2015/09/pebble-time-repared/
