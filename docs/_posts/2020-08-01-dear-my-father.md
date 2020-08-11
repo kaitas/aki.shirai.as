@@ -51,7 +51,7 @@ author: aki
 
 （いまは2006年の投稿が見やすいですが、そのうち雑多な投稿に埋もれていくことでしょう）
 
-- [http://akihiko.shirai.as/blog/](http://akihiko.shirai.as/blog/)
+- [https://aki.shirai.as/](https://aki.shirai.as/)
 
 フランス時代の長男のちいさいころも、もう遠くの昔の話になってしまいました。
 
