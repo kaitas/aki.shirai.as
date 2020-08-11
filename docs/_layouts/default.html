@@ -12,8 +12,8 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     {% include meta.html %}
-    <meta name="theme-color" content="#157878">
-    <link rel="stylesheet" href="/assets/css/style.css?v=791e0a36b217305d2dcbfb42a76c786eb17ba7c4">
+<!--    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/assets/css/style.css?v=791e0a36b217305d2dcbfb42a76c786eb17ba7c4">-->
     <title>{{ page.title }}</title>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {% if site.google_analytics %}
@@ -43,6 +43,11 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 {% endif %}
+<header>
+  <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+  <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+</header>
+
 <section class="page-header">
 <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
 <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
