@@ -43,9 +43,9 @@ CG,VR業界の研究者はこの時期、Laval VirtualやSIGGRAPHといった国
 
 白井研究室は規模の割には国際投稿が多いです。
 
-[http://blog.shirai.la/publications/](http://blog.shirai.la/publications/)
+[https://blog.shirai.la/publications/](https://blog.shirai.la/publications/)
 
-また数だけでなく内容も学部生でACMの学生研究コンテストで[世界3位](http://blog.shirai.la/blog/2014/08/siggraph2014-src/)を受賞したりと、大学の入試難度の割には世界トップクラスの評価を受けることもあったりします(ちなみにACM SRCは書き物だけでなくファイナルはプレゼン審査込みです)。
+また数だけでなく内容も学部生でACMの学生研究コンテストで[世界3位](https://blog.shirai.la/blog/2014/08/siggraph2014-src/)を受賞したりと、大学の入試難度の割には世界トップクラスの評価を受けることもあったりします(ちなみにACM SRCは書き物だけでなくファイナルはプレゼン審査込みです)。
 
 本人の頑張りや先生の頑張り、研究の難度やインパクトはあるにせよ、一般的には日本語の論文を「ただ翻訳」したからといって別のアーティクルになったとみなすことはできません。しかし卒業論文や日本VR学会、インタラクションといった、日本語だったら構造的もクオリティ的にもしっかり書けるし、新規性もディスカッションもしっかりしている、さらにそのadvancementも加えられるような投稿もあるけれど、いざその学生に『英語投稿しようぜ！』と提案すると、もうその瞬間にグッチャグチャになる…といった経験はよくあります。
 
@@ -137,8 +137,9 @@ http://unokun.hatenablog.jp/entry/2015/08/08/103841
 フィードバックありましたら [@o_ob](https://twitter.com/o_ob) までどうぞ！
 
 <a name="note"></a>*(追記:2017/2/17 22:00)  
-https://twitter.com/_240_/status/832506607196106752  
-https://twitter.com/o_ob/status/832519206021107712
+
+<blockquote><a href="https://twitter.com/_240_/status/832506607196106752"></a></blockquote>  
+<blockquote><a href="https://twitter.com/o_ob/status/832519206021107712"></a></blockquote>
 
 本稿のGoogle Spreadsheet関数で利用できるGoogle翻訳では、フレーズ間の翻訳確率を計算して翻訳先の言語の適切な語順に並べ替える、フレーズベース機械翻訳（PBMT）を採用しているようです。2016年11月にアップデートされたニューラルネットワークベースのGoogle Neural Machine Translation（GNMT）はPBMTよりも翻訳精度が上がる印象がありますが、本稿の関数にはまだ実装されていないようです。  
 ご参考：グーグルの翻訳AIが「独自の言語」を生み出したといえる根拠（2016.11.24）  
@@ -162,7 +163,7 @@ GoogleTranslate関数: **ハイテク技術革新の話はでたらめです。�
 この文であればGoogleTranslate関数の方が素直な訳でいいですね、GNMTによる日本語訳は英語に直すと「The story of technological innovation is a liar. Shut down and complete the work」、うそつきとシャットダウンが強く残ってしまっています。  
 なおこの一文は実際のニュースとしてはもっと恣意的な翻訳をされているのでまだマシなのかもしれませんが…。
 
-https://twitter.com/o_ob/status/832766274203561984
+<blockquote><a href="https://twitter.com/o_ob/status/832766274203561984"></a></blockquote>
 
 しかしGoogle翻訳(GNMT)の翻訳結果がお上品になるのは良いことなんだろうか？「ブルシッt」が「うそつきです」になる事で人類のヘイトを抑えられるどころかより齟齬を産んでるんじゃねーの、って気持ちもある。  
 この辺り、もう現実はチェス囲碁将棋AIと翻訳に関してはSFに両足突っ込んでる感じがしますね。シンギュラリティです。
@@ -178,7 +179,6 @@ Excelで苦手なヒストグラムも一発で出せますよ！
 ## ご紹介の際は一言頂ければ幸いです
 
 国際論文連発の研究室が明かす、英作文超ノウハウ。Google翻訳ってスプレッドシートから使えるんだ！｜ギズモード・ジャパン   
-https://www.gizmodo.jp/2017/03/google_translate_spreadsheet.html
 
 [https://www.gizmodo.jp/2017/03/google_translate_spreadsheet.html](https://www.gizmodo.jp/2017/03/google_translate_spreadsheet.html)
 
@@ -189,6 +189,6 @@ https://www.gizmodo.jp/2017/03/google_translate_spreadsheet.html
 
 <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
-<div class="wp-block-embed__wrapper">https://twitter.com/o_ob/status/1089022941398888448</div>
+<blockquote><a href="https://twitter.com/o_ob/status/1089022941398888448"></a></blockquote>
 
 </figure>
