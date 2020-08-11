@@ -19,14 +19,14 @@
               <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
             </section>
           {% endif %}
+        </section>
+        <section class="main-content">
+            {{ content }}
+        </section>
 
-	{% include nav.html %}
-    </section>
+        {% include nav.html %}
 
-    <section class="main-content">
-        {{ content }}
-    </section>
-
+    
     <!-- FOOTER  -->
     <div align="center" id="footer_wrap" class="site-footer">
         {% include nav.html %}
