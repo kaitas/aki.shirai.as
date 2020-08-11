@@ -2,14 +2,7 @@ theme: jekyll-theme-leap-day
 title: aki's right brain
 languages: "ja"
 google_analytics: UA-34399144-3
-# <!-- Global site tag (gtag.js) - Google Analytics -->
-# <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34399144-3"></script>
-#<script>
-#  window.dataLayer = window.dataLayer || [];
-#  function gtag(){dataLayer.push(arguments);}
-#  gtag('js', new Date());
-#  gtag('config', 'UA-34399144-3');
-#</script>
+google_tagManager: GTM-PBFKXB5
 source: .
 # layouts_dir: _layouts
 # data_dir: _data # なぜかこのディレクトリをいったん指定しないと _posts が動かなかった
