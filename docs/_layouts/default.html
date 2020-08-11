@@ -47,6 +47,7 @@
   <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
 </header>
 
+<!-- banner
 <div id="banner">
   <span id="mylogo"></span>
   <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
@@ -60,10 +61,15 @@
     </div>
   {% endif %}
 </div>
-<!-- end banner -->
+end banner -->
 <div class="wrapper">
   <nav>
-    <ul></ul>
+    <ul>
+      <li><a href="{{site.baseurl}}/">Home</a></li>
+      <li><a href="https://twitter.com/o_ob">Twitter</a></li>
+      <li><a href="https://vr.gree.net/lab/">Work</a></li>
+    </div>
+    </ul>
   </nav>
   <section>
     {{ content }}
