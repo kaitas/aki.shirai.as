@@ -1,6 +1,6 @@
 ---
 author: aki
-title: "\n\t\t\t\t変質する大学教員とTwitter規範\t\t"
+title: "変質する大学教員とTwitter規範"
 slug: relation-academic-workers-and-twitter
 id: 9113
 date: '2014-08-07 12:36:05'
@@ -72,3 +72,11 @@ Twitterは前後関係を持たずに一人歩きする上に，後で編集で�
 ## 追記：その後の太平さんの反省から
 
 https://twitter.com/ohiratec_mega/status/497022740918837249 https://twitter.com/ohiratec_mega/status/497022051442372610 https://twitter.com/ohiratec_mega/status/497021476361342976 https://twitter.com/ohiratec_mega/status/497018663489130497 https://twitter.com/ohiratec_mega/status/497139234629619712 https://twitter.com/ohiratec_mega/status/497060891112648704 https://twitter.com/ohiratec_mega/status/497026667844349952 変態ツイートを繰り返していたことに対する振り返り，そしてまた一つ人間が大きくなっていくことが見える． そして弁明も反省も，Twitter上で展開するしかない部分もある．辞めても逃げてもアカウント替えても意味はないし． 「人間になれるだろうか？一応努力してみる」というつぶやきは共感できる．がんばろ大平さん．俺も頑張る．
+
+
+## 追記：2020-08-13
+
+自分自身、「この大学教員とTwitterの関係」には変化を感じるところも反省するところも多く常に研究し続けていくべきと考えているのだけど、この1年ぐらい後にこんなエントリーも書いているのでご参照ください。
+
+- [大人Twitterマナー10か条（2015年版）](https://aki.shirai.as/2015/09/twitter-manner-2015/)
+
