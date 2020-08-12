@@ -1,6 +1,6 @@
 ---
 author: aki
-title: "\n\t\t\t\t新しいGoogle翻訳とスプレッドシートを使って国際会議への執筆をスマートにするついでに英作文力を高速に身につけるハック\t\t"
+title: "新しいGoogle翻訳とスプレッドシートを使って国際会議への執筆をスマートにするついでに英作文力を高速に身につけるハック"
 slug: google-translate-and-spreadsheet-for-international-submission
 id: 40305
 date: '2017-02-16 12:44:46'
