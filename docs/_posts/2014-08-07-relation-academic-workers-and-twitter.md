@@ -71,7 +71,24 @@ Twitterは前後関係を持たずに一人歩きする上に，後で編集で�
 
 ## 追記：その後の太平さんの反省から
 
-https://twitter.com/ohiratec_mega/status/497022740918837249 https://twitter.com/ohiratec_mega/status/497022051442372610 https://twitter.com/ohiratec_mega/status/497021476361342976 https://twitter.com/ohiratec_mega/status/497018663489130497 https://twitter.com/ohiratec_mega/status/497139234629619712 https://twitter.com/ohiratec_mega/status/497060891112648704 https://twitter.com/ohiratec_mega/status/497026667844349952 変態ツイートを繰り返していたことに対する振り返り，そしてまた一つ人間が大きくなっていくことが見える． そして弁明も反省も，Twitter上で展開するしかない部分もある．辞めても逃げてもアカウント替えても意味はないし． 「人間になれるだろうか？一応努力してみる」というつぶやきは共感できる．がんばろ大平さん．俺も頑張る．
+<blockquote class="twitter-tweet"><a href="https://twitter.com/ohiratec_mega/status/497022740918837249"></a></blockquote>
+
+<blockquote class="twitter-tweet"><a href="https://twitter.com/ohiratec_mega/status/497022051442372610"></a></blockquote>
+
+<blockquote class="twitter-tweet"><a href="https://twitter.com/ohiratec_mega/status/497021476361342976"></a></blockquote>
+
+<blockquote class="twitter-tweet"><a href="https://twitter.com/ohiratec_mega/status/497018663489130497"></a></blockquote>
+
+<blockquote class="twitter-tweet"><a href="https://twitter.com/ohiratec_mega/status/497139234629619712"></a></blockquote>
+
+<blockquote class="twitter-tweet"><a href="https://twitter.com/ohiratec_mega/status/497060891112648704"></a></blockquote>
+
+<blockquote class="twitter-tweet"><a href="https://twitter.com/ohiratec_mega/status/497026667844349952"></a></blockquote>
+
+変態ツイートを繰り返していたことに対する振り返り，そしてまた一つ人間が大きくなっていくことが見える． そして弁明も反省も，Twitter上で展開するしかない部分もある．辞めても逃げてもアカウント替えても意味はないし．
+
+
+「人間になれるだろうか？一応努力してみる」というつぶやきは共感できる．がんばろ大平さん．俺も頑張る．
 
 
 ## 追記：2020-08-13
