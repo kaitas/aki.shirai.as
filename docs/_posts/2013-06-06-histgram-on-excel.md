@@ -32,7 +32,7 @@ tags:
 
 シートに戻ると「データ」メニューに「分析：データ分析」追加されています。 こちらを実行すると、様々なデータ分析処理が選べますので「ヒストグラム」を選択します。
 
-[![histgram](http://aki.shirai.as/wp-content/uploads/2013/06/histgram-300x168.png)](http://aki.shirai.as/2013/06/histgram-on-excel/histgram/)
+[![histgram](https://aki.shirai.as/wp-content/uploads/2013/06/histgram-300x168.png)]
 
 ・入力範囲：分析対象のデータです。下方向にデータが並びます。
 ・データ区間：横軸に当たる区間を1行づつ入れていきます。
@@ -40,7 +40,7 @@ tags:
 
 以下の様な度数分布表とヒストグラムが生成されます。
 
-[![histgramResult](http://aki.shirai.as/wp-content/uploads/2013/06/histgramResult-300x148.png)](http://aki.shirai.as/2013/06/histgram-on-excel/histgramresult/)
+[![histgramResult](https://aki.shirai.as/wp-content/uploads/2013/06/histgramResult-300x148.png)](http://aki.shirai.as/2013/06/histgram-on-excel/histgramresult/)
 
 その他、授業内で紹介した数式などはこちらの完成版EXCELを参考にすると良いと思います([chap9statistics](https://aki.shirai.as/2013/06/histgram-on-excel/chap9statistics-2/))。
 
