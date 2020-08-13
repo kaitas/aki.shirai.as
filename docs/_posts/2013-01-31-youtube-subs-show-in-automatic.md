@@ -16,7 +16,7 @@ YouTubeの字幕機能，使ってますか？結構便利です．
 
 まずは字幕です．仕事上，多言語字幕などを必要とするのですが，
 
-universalsubtitles.org
+universalsubtitles.org → ※このサイトはその後 amara になっています
 
 というサイトで既存のYouTube動画に字幕をつけることが多いです．
 
@@ -30,7 +30,7 @@ universalsubtitles.org
 ユーザの設定で字幕をデフォルトでONにしていればいいのですが，それも期待できない場合．
 このようなリンクを作れば，自動で字幕が付加されます．試してみてください．
 
-[http://youtube.googleapis.com/v/QwpvB4FrkpE&cc_load_policy=1&fs=1&rel=0&autoplay=1&loop=1](http://youtube.googleapis.com/v/QwpvB4FrkpE&cc_load_policy=1&fs=1&rel=0&autoplay=1&loop=1) 
+[https://www.youtube.com/watch?v=mTwEhZMapLw&cc_load_policy=1&fs=1&rel=0&autoplay=1&loop=1](https://www.youtube.com/watch?v=mTwEhZMapLw&cc_load_policy=1&fs=1&rel=0&autoplay=1&loop=1) 
 
 www.youtube.com に /v/ として 動画のIDを加えます．
 
@@ -49,4 +49,5 @@ www.youtube.com に /v/ として 動画のIDを加えます．
 
 ## 追記：2020-08-13
 
-YouTube APIの変更により上記のタグは動きません。
+かつて GoogleAPIS だったのですが、現在は YouTube として動きますのでURLを変更しました。
+
