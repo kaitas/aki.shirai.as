@@ -1,0 +1,12 @@
+---
+author: ameblo
+title: "\n\t\t\t\tRestarting my engine in English\t\t"
+slug: restarting-my-engine-in-english-2
+id: 3241
+date: '2007-05-11 06:20:52'
+layout: post
+categories:
+  - 随筆
+---
+
+Hi, Now I'm having a lot of English tasks. Also I had rest lot in my home then my French language systems (in my head) is almost sleeping. Anyway I'm keeping use my poor English on my blog. So I had hunting down myself in this week. Because my engine is still stalling. Why? I've some reasons that I haven't wrote here. -Hay fever in France (Rhume d'allergie) is hard for me...this year is harder than before. 1 box of tissue per a week. It's a normal sense in Japan but it's abnormal here. -Future (in Laval) ...Yes, I have to decide soon. I already discussed with Simon (it needs 4 month when I had suggested to him). The discussion is excited but there were no special interests for me. Most of tasks are just some classic technology usage. If I prefer to work like that, I should work in Japan. Because the sense is near for me, technology is higher, price may be same or less. But price is not a primary problem for me. Exceptionally establishment of a fund of VR student may be interest for me. But it should be a task in LMT, not me. -Future (other) I had updated my CV (thanks Gill for your help). It was 11 pages! Yes. Probably it's not a CV. It includes my CV, projects and publication in these 10 years. Anyway, I sent it for 2 posts. Everything starts from sending our CV... I hope it starts my engine again. -Ubuntu Linux 07.04 Good! When I tried it as updating, it haven't work well. I guess some drivers like Wifi(atheros) or ATI is conflict with new functions. So, the new Wifi manager on Ubuntu works very well. -Fete de Jeux Le 25-26 mai, I will show something at Musee Vieux Chateaux. -Laval Virtual affairs When I do something about LV, my computer always crashes. Why?? -WiiMedia full paper camera ready for Sandbox It is my current main task... http://sandbox.siggraph.org/program.html Yes I had accepted. But writing quality is too bad. Miracle bad. I must rewrite it as better version. Ouch, my abstract on the website also... Its deadline is next Tuesday. I have to hurry up me. -IVRC Google Groups Please see http://ivrc.net/BoF I had created 2 google groups for French students and international mailing lists. It's time to back to write... see you.

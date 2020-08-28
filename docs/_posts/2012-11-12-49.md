@@ -1,0 +1,21 @@
+---
+author: aki
+title: "\n\t\t\t\t偏光フィルターの本来の使い方\t\t"
+slug: polarization-filter-for-your-iphone
+id: 5182
+date: '2012-11-12 11:21:02'
+layout: post
+categories:
+  - photo
+tags:
+  - 偏光フィルタ
+---
+
+Scritter, UbiCodeの解説のために普段から小さな偏光フィルタを切ってiPhoneケースに入れています。  
+[![20121112-111420.jpg](http://aki.shirai.as/wp-content/uploads/2012/11/20121112-111420.jpg)](http://aki.shirai.as/wp-content/uploads/2012/11/20121112-111420.jpg)  
+こうしておくと方向も切り替えも自由にできます。だいたいA4サイズで1000円しませんので、このサイズなら30円分ぐらいでしょうか。 でもって相模原市プレゼン準備に向けてロケハン中。 近所の水路です。  
+
+[![20121112-110455.jpg](http://aki.shirai.as/wp-content/uploads/2012/11/20121112-110455.jpg)](http://aki.shirai.as/wp-content/uploads/2012/11/20121112-110455.jpg)  
+せっかく鯉が泳いでいるのによく見えません。 ここでこの直線偏光フィルタを使うと...。  
+[![20121112-110506.jpg](http://aki.shirai.as/wp-content/uploads/2012/11/20121112-110506.jpg)](http://aki.shirai.as/wp-content/uploads/2012/11/20121112-110506.jpg)  
+こんな風に水面の強い反射が消えて、鯉が見えます。 なぜ？どうして？？？ はまたの機会にでも。

@@ -1,0 +1,16 @@
+---
+author: ameblo
+title: "\n\t\t\t\tFace input BB for Virtools 3.5\t\t"
+slug: face-input-bb-for-virtools-3-5
+id: 3112
+date: '2006-12-14 13:37:10'
+layout: post
+categories:
+  - '[research]'
+tags:
+  - 出張
+---
+
+<div align="center">[![FacedetectBB.jpg](http://blog-imgs-42.fc2.com/a/k/i/akihikofr/blog_import_4f564683ad854.jpg)](http://blog-imgs-42.fc2.com/a/k/i/akihikofr/blog_import_4f564683c02ad.jpg)</div>
+
+OpenCVに実装されている、Haarlike cascadeを使ったかなりロバストな顔画像認識で すが、ついに、というかやっとというか、Virtools Building Blocks化しました。 いま朝の5時で7時過ぎには日帰り出張出発なので、とりあえずバイナリだけでもさ くっと公開しておくことにします。 [http://akihiko.shirai.as/modules/mydownloads/viewcat.php?cid=5](http://akihiko.shirai.as/modules/mydownloads/viewcat.php?cid=5) 以下、READMEより。 FaceInputBB Author Akihiko SHIRAI [http://akihiko.shirai.as/](http://akihiko.shirai.as/) FaceInput testing Building Block for Virtools 3.5 Main program detect your face and send its position to Virtools via networks. [Versions] Ver 0.6 14/Dec/2006 Virtools BB support [How to use?] (1) Edit faceinput.ini, if you need to modify network setting. Default settings are configured as a standalone situation. HostAddr =127.0.0.1 NetMask =255.255.255.0 Port =5000 You can also modify these values to change Haar like cascade detection. Now I had set them as faster condition. Scale = 2.0f HaarStep = 1.2 These example gives you another condtion. Scale = 1.0f HaarStep = 1.05 Please read OpenCV documents to know what are them. (2) Boot up faceinput.exe This program connects to your webcam and detect your face then send the position (x,y,z) and its status (number of detected faces). It may show a security allert on WinXPSP2 at the first time. Please "deblock" to allow network access to it. (3) Use "CVRFacedetect" Building Block on Virtools Dev3.5. Install "AkiBB_D3.5.dll" to your BuildingBlocks folder. It may be... C:\Program Files\Virtools\Virtools Dev 3.5\BuildingBlocks This DLL is only for Dev3.5. "FaceInputTest.cmo" includes a simplest sample. (4) Report your results Tell me if you have any problem, success, and/or requests. Don't hesitate, I need your helps. You can post message from here: [http://akihiko.shirai.as/modules/liaise/](http://akihiko.shirai.as/modules/liaise/) Good luck, Akihiko SHIRAI とりあえず日本語でさっくり書くと、 (1) faceinput.iniを編集します。 デフォルトでスタンドアロン環境を想定してます。 HostAddr =127.0.0.1 NetMask =255.255.255.0 Port =5000 Haar like cascadeのパラメータをかえたい場合は以下で変更できます。 Scale = 2.0f HaarStep = 1.2 現在、最速設定にしていますが、以下のような設定も出来ます。 Scale = 1.0f HaarStep = 1.05 詳しくはOpenCVの解説を読んでください。 (2)faceinput.exeを起動します このプログラムはあなたのWebCamに接続し、あなたの顔を認識してその場所(x,y,z) とステータス(現在は認識された顔の数)をVirtoolsに送ります(コマンドコンソール やテキストファイルにも書き出せます)。WinXPSP2では初回起動時にアラートが出る かもしれませんが気にせず許可してください。 (3)Virtools上で"CVRFacedetect"Building Blockを使ってみてください "AkiBB_D3.5.dll"というDLLファイルが同梱されていますので、Virtools3.5の BuildingBlocksフォルダに放り込んでください。多分このディレクトリです、 C:\Program Files\Virtools\Virtools Dev 3.5\BuildingBlocks ちなみにDev3.5専用です。4.0では動かないはず、必要なら連絡くれればビルドしま すよ。 フォルダに"FaceInputTest.cmo"というサンプル用のCMOも同梱しています。動かな かったらごめん。 (4)結果をリポートしてください(笑) うまく行ったとかいかなかったとか、こうしてほしいとかリクエストがあったら教え てください。 Virtoolsの国内ユーザはそんなに多くないし、遠慮しないでね。 以上。 ちょっと仮眠したいな。。。
