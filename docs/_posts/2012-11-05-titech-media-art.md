@@ -11,7 +11,9 @@ tags:
   - 講義録
 ---
 
-キャズムとペルソナについて  
+# キャズムとペルソナについて  
+
+世界文明センターの2F、応接室みたいなところでのホワイトボード板書。
 
 [![20121105-165819.jpg](https://aki.shirai.as/wp-content/uploads/2012/11/20121105-165819.jpg)](https://aki.shirai.as/wp-content/uploads/2012/11/20121105-165819.jpg)  
 
