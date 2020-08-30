@@ -1,0 +1,12 @@
+---
+author: ameblo
+title: "\n\t\t\t\tMarie Curie Action: International Incoming Fello\t\t"
+slug: marie-curie-action-international-incoming-fello
+id: 3907
+date: '2010-01-06 13:49:48'
+layout: post
+categories:
+  - 携帯雑稿
+---
+
+フランス西部、ペイデラロワールで研究活動したい人にお知らせ。 http://www.emn.fr/x-net/europe-pdl/spip.php?article469 ---------- Forwarded message ---------- Bonjour, Here attached an information on MARIE CURIE ACTION: INTERNATIONAL INCOMING FELLOWSHIPS, an european program that could allow japanese researchers to come to France for a common research action. Please tell me if you or one of your researcher could be interested. Best regards Simon RICHIR Arts et Métiers ParisTech Presence & Innovation Lab. Ingénierium - 4 rue de l'Ermitage 53000 Laval - France Tél / Fax : +33 2 43 67 05 76 www.pi-lab.net 12e Rencontres Internationales de la Réalité Virtuelle - Laval Virtual 12th International Conference on Virtual Reality - Laval Virtual 7-11 avril 2010 / April 7-11, 2010 www.laval-virtual.org ---------- Forwarded message ---------- Subject: Faire venir un chercheur japonais dans votre laboratoire Bonjour, Tout d'abord, je vous présente mes meilleurs voeux pour l'année 2010. Il me semble que les bourses Marie Curie sont adaptées à votre projet. En effet, une partie du programme est consacrée aux bourses « International Incoming Fellowships » (IIF) qui ont pour objectif de faire venir un chercheur d’un pays non-européen. Vous trouverez en pièce-jointe l'extrait du programme de travail Marie Curie concernant les IIF. Vous pouvez également lire l'article publié dans le dernier numéro du bulletin d'information des cellules Europe des Pays de la Loire. http://www.emn.fr/x-net/europe-pdl/spip.php?article469 L'appel sera publié le 17 mars pour une date limite de soumission le 17 aout. Nous sommes donc bien dans les temps. Je vous contacterai par téléphone prochainement pour parler plus en détail de votre projet. Cordialement, -- Claire PHILIPPE _________________________________________ Chargée de mission Europe Le Mans - Laval Réseau Europe Recherche et Innovation Pays de la Loire Service Recherche de l'Université du Maine Avenue Messiaen 72 000 Le Mans Tel : 00.33.2.43.83.31.17 Portable : 06 12 53 13 24

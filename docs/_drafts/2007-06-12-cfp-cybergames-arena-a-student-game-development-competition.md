@@ -1,0 +1,43 @@
+---
+author: twitter-blogger
+title: "\n\t\t\t\t[CFP] CyberGames Arena: A Student Game Development Competition\t\t"
+slug: cfp-cybergames-arena-a-student-game-development-competition
+id: 1393
+date: '2007-06-12 19:39:00'
+layout: post
+categories:
+  - 未分類
+---
+
+CyberGames Arena:  
+A Student Game Development Competition
+
+Submission Requirements  
+Who is eligible? This competition is open to college and university students. Each student team can have 2-5 members. Faculty members can provide guidance or lead the team.
+
+The game proposal. Your first milestone is a proposal, due by 30th June 2007.
+
+Your proposal should be brief (1 page). Be sure to list all team members. The proposal should clearly state the premise of your game, describe the 3D world you plan to build for it, outline the gameplay, and list the advanced techniques in your game. Finally, you must include at least one image in your proposal - a sample screenshot of the game in action. This image can be a scanned pencil sketch will do, or something you do in Photoshop, Illustrator, KidPix, or your favorite computer art program. The purpose of this requirement is to help us understand your proposal, and to help you think about how hard or easy it might be to implement what you propose.
+
+You should need to submit just once. If your team wishes to submit a modified proposal, it should be resubmitted as described above by the same team member who submitted originally. A similar procedure is to be followed for submitting the video game.  
+Email your proposal to d.dancey at mmu.ac.uk
+
+Game Submission: Your complete video game is due on 31st August 2007\. Submissions will be handled electronically. Your submission should include your entire game video. It should also include a README file which lists your team members, and techniques you implemented. Also, your README file should include references to any external sources you referred to for inspiration, and it should indicate how your 3D models and other game content were obtained.  
+Final submission details will appear at:
+
+[http://www.coetechweek.com/cybergames/CyberGames_Arena.html](http://www.coetechweek.com/cybergames/CyberGames_Arena.html)
+
+Game Evaluation: The submitted videos will be evaluated and the best 12 games will be selected for presentation at Cybergames Arena. The finalists will be invited to present the game at the Cybergames Arena to be held during the Cybergames 2007 conference on 11th and 12th September 2007.
+
+Game Competition: At the Cybergames Arena, a panel of game experts from industry and academia will evaluate your game as part of the video game competition. The selection of prize winners, which will be performed by the jury. The composition of the jury will be announced shortly.
+
+Prizes: There will be one grand prize (PS3 game console) and one second-place prize (X-Box 360 game console). In addition, every finalist team will receive a current video game title for the PC platform. A special prize will also be awarded for the best game in the mobile platforms category.
+
+Good luck, and have fun!
+
+For more information, contact:  
+Darren Dancey  
+Chair, Cybergames Arena  
+d.dancey at mmu.ac.uk
+
+<div>http://akihiko.shirai.as/</div>

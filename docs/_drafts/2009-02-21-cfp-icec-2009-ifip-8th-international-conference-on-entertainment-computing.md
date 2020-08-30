@@ -1,0 +1,96 @@
+---
+author: twitter-blogger
+title: "\n\t\t\t\t[CfP] \\\"ICEC 2009\\\" IFIP 8th International Conference on Entertainment Computing\t\t"
+slug: cfp-icec-2009-ifip-8th-international-conference-on-entertainment-computing
+id: 1363
+date: '2009-02-21 23:00:00'
+layout: post
+categories:
+  - 未分類
+---
+
+Final Call For Papers!
+
+------  
+CALL FOR PARPERS  
+IFIP 8th International Conference on Entertainment Computing (ICEC 2009)  
+September 3 - 5, 2009  
+CNAM, Paris, France  
+[http://www.entertainmentcomputing.org/icec2009/](http://www.entertainmentcomputing.org/icec2009/)
+
+Sponsored by International Federation for Information Processing (IFIP)
+
+--------------------------------------------------------------------------------------------  
+We invite you to participate at the prestigious 8th International  
+Conference on Entertainment Computing (ICEC2009). Entertainment has been  
+taking very important parts in our life by refreshing us and activating  
+our creativity. Recently by the advancement of computers and networks  
+new types of entertainment have been emerging such as video games,  
+entertainment robots, and network games. Based on the very successful  
+preceding workshop and conferences, the next ICEC2009 has been set up to  
+offer an occasion to exchange experience and knowledge among researchers  
+and developers in the field of entertainment computing.
+
+Important Dates:  
+ICEC 2009 Tutorial Proposals: 23rd February 2009  
+Full Paper Submissions: 2nd March 2009  
+Decisions on Full Paper Submissions: 30th March 2009  
+Short Paper, Poster and Demo Submissions: 20th April 2009  
+Decisions on Short Paper, Poster and Demo Submissions: 4th May 2009  
+Camera Ready Submissions for all Papers: 1st June 2009
+
+Conference Topics:  
+Suggested research topics include, but are not limited to:  
+l Interactive Design for Entertainment  
+l Aesthetics, Ontology and Social Reflection  
+l Art, Design and Novel Media  
+l Augmented, Virtual and Mixed Reality  
+l Computer Games and Game Based Interfaces  
+l Education, Training, and Edutainment Technologies  
+l Entertainment and Healthcare  
+l Novel and Evolutionary Platforms / Hardware Devices  
+l Social and Human Factors of Entertainment  
+l Interactive Digital Storytelling, and Interactive Tele-Vision  
+l Mobile Entertainment via e.g. Mobile Phones, PDAs etc  
+l Narrative Environments and Intelligent Medias  
+l New Genres, New Standards  
+l Pervasive Entertainment and Game-Playing  
+l Robots and Cyber Pets  
+l Self Reflecting Entertainment  
+l Simulation Applications of Games, and Military Training  
+l Sound, Music, Creative Environments  
+l Real time and Interactive Technologies for entertainment  
+(Graphics, Sound, AI...)
+
+Artworks:  
+We are planning a dedicated Art Exhibition. Confirmation and details of  
+this event will be published soon!
+
+Proceedings:  
+The proceedings of ICEC2009 will be published Springer in the series of  
+Lecture Notes in Computer Science (LNCS).
+
+ICEC2009 Committee:  
+General Conference Chair:  
+Stephane Natkin (CNAM/ENJMIN, France)  
+Progam Committee Co-Chairs:  
+Stephane NATKIN (CNAM/ENJIM, France)  
+Masayuki NAKAJIMA (Tokyo Institute of Technology, Japan)  
+Bras BUSHMAN (University of Michigan, USA)  
+International Steering Committee:  
+Ryohei Nakatsu (National University of Singapore, Singapore)  
+Mark Cavazza (University of Teesside, UK)  
+Zhigeng Pan (Zhejiang University, China)  
+Stephane Natkin (CNAM/ENJIM, France)  
+Matthias Rauberberg (Technical University of Eindhoven, The Netherlands)  
+Don Marinelli (Carnegie Mellon University, USA)  
+Hyun Yang (KAIST, Korea)  
+Roy Ascott (University of Plymouth, UK)  
+Sara Diamond (Ontario College of Art and Design, Canada)  
+Scott Fischer (USC, USA)  
+Organizing Committee:  
+Chair:Ben Salem (Technical University of Eindhoven, The Netherlands)  
+Stephane Gros (CNAM, France)  
+Xan Qiu Hou (CNAR, France)
+
+<div>http://akihiko.shirai.as/</div>
