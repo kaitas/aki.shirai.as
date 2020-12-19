@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "（草稿公開）「VR元年」の終焉から世界同時参加のXRライブエンタメへ"
+title: "(草稿公開)「VR元年」の終焉から世界同時参加のXRライブエンタメへ"
 date: '2020-08-03 23:00:00'
 author: aki
 ---
@@ -12,7 +12,7 @@ author: aki
 
 ■これまでの5年、これからの5年
 ――「VR元年」の終焉から世界同時参加のXRライブエンタメへ
-
+（文化庁「メディア芸術カレントコンテンツ」, 2020/10/29公開）
 [https://mediag.bunka.go.jp/article/article-16853/](https://mediag.bunka.go.jp/article/article-16853/)
 
 今回の執筆では思うところがあって、
